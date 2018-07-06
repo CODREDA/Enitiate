@@ -1,0 +1,16 @@
+*{
+	font-family: 'Roboto', sans-serif;
+	background-color: #3576;
+}
+
+h1{ text-align: center;
+ }
+
+ p{ 
+ font-size: 22px;
+ }
+
+.headers3{
+	font-size: 30px;
+	color: blue;								
+}
