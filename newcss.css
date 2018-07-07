@@ -1,16 +1,23 @@
 *{
 	font-family: 'Roboto', sans-serif;
-	background-color: #3576;
 }
-
-h1{ text-align: center;
+h1{ text-align: center; text-decoration: underline;
  }
 
  p{ 
  font-size: 22px;
+ line-height: 150% ;
  }
 
 .headers3{
 	font-size: 30px;
-	color: blue;								
+	color: #3391FF;		
+	text-decoration: underline; 						
 }
+
+h3,h4 { text-transform: uppercase; }
+li {line-height: 150%; font-size:18px; }
+ul li {color: red }
+h1:hover{color: red}
+html{ border-style: inset;
+border-width: 5px }
