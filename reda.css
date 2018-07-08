@@ -1,0 +1,28 @@
+html,body {
+	height: 100%;
+}
+*{  }
+h1{text-align: center;
+font-weight: bold;
+font-size: 100px;
+font-family: 'Wendy One', sans-serif;}
+h2{text-align: center;
+color: red}
+p{text-align: center;
+color: black;
+padding-top: 15pt;
+font-family: 'Roboto Mono', monospace;
+}
+body {
+   background-image: url("./How-to-Use-Video-Background-on-Websites.jpg");
+   background-repeat: no-repeat;
+   background-position: center; 
+   background-size:cover;
+}
+h3,ul{text-align: center;
+font-size:18;}
+ul{color: black;
+	font-family: 'Song Myung', serif;
+}
+.definition {
+    padding-top: 40pt; }
