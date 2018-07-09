@@ -1,0 +1,49 @@
+html,body {
+	height: 100%; } 
+
+.a{  
+	background-image: url(./teswira1.jpg); 
+background-repeat: no-repeat;
+   background-position: center; 
+   background-attachment: fixed;
+   color: white ;
+   text-align: center;
+   padding-bottom : 400pt;
+   background-size:cover;
+}
+h1{ padding-bottom: 100pt ;
+	padding-top : 50pt ;
+}
+h2{ letter-spacing: 5px;
+word-spacing: 5px; }
+
+.b{ color: black ;
+text-align: center;
+font-size: 30px ;
+}
+#b1{ padding-bottom: 50pt ;
+ }
+#b2{ padding-bottom: 50pt;
+ }
+
+img{
+	width: 30%;
+	height: 450px;
+	filter: blur(3px);
+	transition: all 0.5s ease-in-out;
+
+}
+
+img:hover{
+	transform: translateY(-15px);
+	filter: blur(0px);
+}
+
+h3::after{ 
+content: "";
+background-color: #3391FF;
+display: block;
+width: 15%;
+height: 1px;
+margin: 15px auto;
+}
