@@ -1,0 +1,9 @@
+Function change(){
+    if (document.getElementById("1").src == "./1.jpg")
+        {
+		document.getElementById("1").src = "./2.jpg";
+        }
+    else {
+        document.getElementById("1").src = "./1.jpg";
+        }
+}
