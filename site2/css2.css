@@ -19,16 +19,15 @@ h1{ padding-bottom: 100pt ;
 text-align: center;
 font-size: 30px ;
 background-color: white;}
-#b1{ padding-bottom: 50pt ;
- }
+
 #b2{ padding-bottom: 50pt;
  }
 
 img{
 	filter: grayscale(100%);
-	transition: all 1.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
 	filter: blur(3px);
-	transition: all 1.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
 
 }
 
